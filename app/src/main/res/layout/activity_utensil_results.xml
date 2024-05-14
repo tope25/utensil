@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".utensils.UtensilResults">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/banner"
+        android:scaleType="center"/>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:backgroundTint="#DAB74A26"
+        android:layout_gravity="center">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="350dp"
+            android:layout_height="250dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/point_viewer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="You got: 0/10"
+                android:textColor="#ffe33b"
+                android:textSize="28sp"
+                android:layout_margin="5dp"
+                android:textStyle="bold" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/result_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Try Again?"
+                android:textColor="#ffe33b"
+                android:layout_margin="5dp"
+                android:textSize="25sp" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/button_back"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:letterSpacing=".1"
+                android:text="@string/back_button"
+                android:textAllCaps="true"
+                android:textColor="#ffe33b"
+                android:layout_margin="5dp"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"
+        android:layout_margin="3dp"
+        android:src="@drawable/banner" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="300dp"
+        android:layout_height="350dp"
+        android:layout_below="@id/banner"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:contentDescription="@string/swipe_viewpager" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/utensil_quiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffed46"
+        android:shadowRadius="10"
+        android:letterSpacing=".1"
+        android:shadowColor="#b81870"
+        android:shadowDy="3"
+        android:shadowDx="3"
+        android:layout_below="@id/viewPager"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        android:text="Utensil Quiz"
+        android:layout_margin="10dp"
+        android:textSize="25sp"
+        android:textAllCaps="true"/>
+
+</RelativeLayout>
+

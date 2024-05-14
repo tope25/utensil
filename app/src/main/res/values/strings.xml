@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Utensil Wizard</string>
+    <string name="swipe_viewpager">swipe_viewpager</string>
+    <string name="back_button">Answer Again?</string>
+    <string name="back">Back</string>
+
+    <array name="chefs_knife">
+        <item>A versatile, all-purpose knife with a sharp blade used for chopping, slicing, and
+            dicing various ingredients.
+        </item>
+        <item>Importance: Essential for precision cutting, chopping, and slicing, making it a
+            versatile tool for a wide range of kitchen tasks.
+        </item>
+    </array>
+
+    <array name="cutting_board">
+        <item>A flat surface, usually made of wood or plastic, used as a safe and sanitary platform
+            for cutting and chopping food.
+        </item>
+        <item>Importance: Provides a safe and sanitary surface for chopping and cutting, preventing
+            cross-contamination and protecting countertops.
+        </item>
+    </array>
+
+    <array name="mixing_bowls">
+        <item>Bowls of various sizes used for combining and mixing ingredients, especially in baking
+            or preparing salads.
+        </item>
+        <item>Importance: Facilitates the combining and blending of ingredients, crucial for recipes
+            that require accurate measurements and thorough mixing.
+        </item>
+    </array>
+
+    <array name="spatula">
+        <item>A flat, wide utensil with a thin edge, used for flipping and turning items like
+            pancakes, burgers, or eggs in a pan.
+        </item>
+        <item>Importance: Ideal for flipping and turning food items, ensuring even cooking and
+            preventing sticking to cooking surfaces.
+        </item>
+    </array>
+
+    <array name="wooden_spoons">
+        <item>Spoons made of wood, suitable for stirring and mixing hot dishes without scratching
+            cookware.
+        </item>
+        <item>Importance: Gentle on cookware, wooden spoons are perfect for stirring and mixing hot
+            dishes without scratching non-stick surfaces.
+        </item>
+    </array>
+
+    <array name="whisk">
+        <item>A tool with wire loops used for beating, whipping, and incorporating air into
+            ingredients, especially in baking.
+        </item>
+        <item>Importance: Incorporates air into ingredients, resulting in lighter and fluffier
+            textures, making it essential for baking and emulsifying.
+        </item>
+    </array>
+
+    <array name="tongs">
+        <item>Scissor-like utensils with long handles, used for gripping and flipping food items on
+            grills or in pans.
+        </item>
+        <item>Importance: Provides a firm grip on food items, making it easy to flip, turn, and
+            serve without damaging the texture or presentation.
+        </item>
+    </array>
+
+    <array name="colander">
+        <item>A bowl-shaped strainer with perforations, used for draining water from pasta,
+            vegetables, or fruits.
+        </item>
+        <item>Importance: Facilitates the draining of liquids from pasta, vegetables, and fruits,
+            ensuring the desired consistency in various dishes.
+        </item>
+    </array>
+
+    <array name="cups_spoons">
+        <item>Tools for precisely measuring ingredients in specific quantities, crucial for accurate
+            cooking and baking.
+        </item>
+        <item>Importance: Enables precise measurement of ingredients, ensuring accuracy in recipes
+            and achieving consistent results.
+        </item>
+    </array>
+
+    <array name="peeler">
+        <item>A tool designed to remove the outer skin of fruits and vegetables, making them easier
+            to handle and consume.
+        </item>
+        <item>Importance: Streamlines the preparation process by quickly and efficiently removing
+            the outer skin of fruits and vegetables.
+        </item>
+    </array>
+
+    <array name="can_opener">
+        <item>A device used to open sealed cans by puncturing and removing the lid, exposing the
+            contents inside.
+        </item>
+        <item>Importance: Provides easy access to canned goods, allowing for convenient
+            incorporation of ingredients in recipes.
+        </item>
+    </array>
+
+    <array name="ladle">
+        <item>A deep-bowled spoon with a long handle, used for serving soups, stews, and sauces.
+        </item>
+        <item>Importance: Essential for serving soups, stews, and sauces, ensuring controlled
+            portions and neat presentation.
+        </item>
+    </array>
+
+    <array name="rolling_pin">
+        <item>A cylindrical tool used to flatten and shape dough for baking purposes.
+        </item>
+        <item>Importance: Aids in flattening and shaping dough, playing a key role in the
+            preparation of baked goods such as pies, cookies, and pastries.
+        </item>
+    </array>
+
+    <array name="grater">
+        <item>A tool with sharp-edged perforations, used for shredding or grating cheese,
+            vegetables, or fruits.
+        </item>
+        <item>Importance: Shreds or grates ingredients like cheese or vegetables, adding texture and
+            flavor to dishes.
+        </item>
+    </array>
+
+    <array name="kitchen_shears">
+        <item>Scissors designed for kitchen use, ideal for cutting herbs, poultry, and other food
+            items.
+        </item>
+        <item>Importance: Versatile scissors designed for kitchen use, facilitating the cutting of
+            herbs, poultry, and other food items.
+        </item>
+    </array>
+
+</resources>

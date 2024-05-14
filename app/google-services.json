@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "790819948285",
+    "firebase_url": "https://tope-8eccf-default-rtdb.firebaseio.com",
+    "project_id": "tope-8eccf",
+    "storage_bucket": "tope-8eccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790819948285:android:6382daefd98fc089816094",
+        "android_client_info": {
+          "package_name": "kitchen.app.utensilwizard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gWTK-XSSem0y465ZSn6G4wTq5rQe_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790819948285:android:6c552906a6b54d67816094",
+        "android_client_info": {
+          "package_name": "sarapmo.piaa.sodo66choiga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gWTK-XSSem0y465ZSn6G4wTq5rQe_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
